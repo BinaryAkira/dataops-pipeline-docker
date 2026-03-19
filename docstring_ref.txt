@@ -1,0 +1,11 @@
+def my_function(param1: int, param2: str) -> bool:
+    """
+    Short description of what the function does.
+
+    Args:
+        param1 (int): What this parameter represents.
+        param2 (str): What this parameter represents.
+
+    Returns:
+        bool: What the function returns and why.
+    """

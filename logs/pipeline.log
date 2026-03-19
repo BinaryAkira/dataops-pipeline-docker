@@ -1,0 +1,30 @@
+2026-03-18 19:17:22,432 - __main__ - INFO - Starting ingestion step
+2026-03-18 19:17:22,968 - __main__ - INFO - Ingestion complete: saved to data\raw\pokemon_raw.json
+2026-03-18 19:17:29,048 - __main__ - INFO - Starting transformation step
+2026-03-18 19:17:29,057 - __main__ - INFO - Transformation complete: saved to data\processed\pokemon_processed.csv
+2026-03-18 19:17:34,547 - __main__ - INFO - Starting validation step
+2026-03-18 19:17:34,586 - __main__ - INFO - Validation successful ï¿½ processed data is valid.
+2026-03-19 15:00:47,439 - src.pipeline - INFO - Pipeline run started
+2026-03-19 15:00:47,439 - src.ingest - INFO - Starting ingestion step
+2026-03-19 15:00:47,931 - src.ingest - INFO - Ingestion complete: saved to data\raw\pokemon_raw.json
+2026-03-19 15:00:47,932 - src.transform - INFO - Starting transformation step
+2026-03-19 15:00:47,951 - src.transform - INFO - Transformation complete: saved to data\processed\pokemon_processed.csv
+2026-03-19 15:00:47,951 - src.validate - INFO - Starting validation step
+2026-03-19 15:00:48,080 - src.validate - INFO - Validation successful — processed data is valid.
+2026-03-19 15:00:48,080 - src.pipeline - INFO - Pipeline run completed successfully
+2026-03-19 15:27:12,197 - src.pipeline - INFO - Pipeline run started
+2026-03-19 15:27:12,198 - src.ingest.ingest - INFO - Starting ingestion step
+2026-03-19 15:27:12,709 - src.ingest.ingest - INFO - Ingestion complete: saved to data\raw\pokemon_raw.json
+2026-03-19 15:27:12,710 - src.transform.transform - INFO - Starting transformation step
+2026-03-19 15:27:12,718 - src.transform.transform - INFO - Transformation complete: saved to data\processed\pokemon_processed.csv
+2026-03-19 15:27:12,718 - src.validate.validate - INFO - Starting validation step
+2026-03-19 15:27:12,756 - src.validate.validate - INFO - Validation successful — processed data is valid.
+2026-03-19 15:27:12,757 - src.pipeline - INFO - Pipeline run completed successfully
+2026-03-19 16:06:13,063 - src.pipeline - INFO - Pipeline run started
+2026-03-19 16:06:13,064 - src.ingest.ingest_main - INFO - Starting ingestion step
+2026-03-19 16:06:13,549 - src.ingest.ingest_main - INFO - Ingestion complete: saved to data\raw\pokemon_raw.json
+2026-03-19 16:06:13,550 - src.transform.transform_main - INFO - Starting transformation step
+2026-03-19 16:06:13,558 - src.transform.transform_main - INFO - Transformation complete: saved to data\processed\pokemon_processed.csv
+2026-03-19 16:06:13,559 - src.validate.validate_main - INFO - Starting validation step
+2026-03-19 16:06:13,599 - src.validate.validate_main - INFO - Validation successful — processed data is valid.
+2026-03-19 16:06:13,599 - src.pipeline - INFO - Pipeline run completed successfully
