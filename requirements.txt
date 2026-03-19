@@ -19,6 +19,7 @@ pandera==0.30.1
 platformdirs==4.9.4
 pluggy==1.6.0
 pre_commit==4.5.1
+pyarrow==23.0.1
 pycodestyle==2.14.0
 pydantic==2.12.5
 pydantic_core==2.41.5

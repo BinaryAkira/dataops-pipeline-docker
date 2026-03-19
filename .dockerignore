@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+data/
+tests/
+.git
+pipeline_docker_venv/
